@@ -22,7 +22,8 @@ public class User {
     private BigInteger userPhone;
     private String email;
 
-    //default unparameterized constructor
+
+    // unparameterized constructor
     public User() {
 
     }
